@@ -2,28 +2,28 @@
 
 ## Discription
 
-This repesotiory is ment to practice bassic Git and Github process as insrtutded by Univisersity of Colorodo Boudler's course CSCI 1000
+This repository is meant to practice basic Git and GitHub processes as instructed by the University of Colorado Boulder's course CSCI 1000
 
 ## Installation
 
-This is ment purely as a repoesority to practice Git and Github intergration, there is no files to complie
+This is meant purely as a repository to practice Git and GitHub integration; there are no files to compile
 
 ## Ussage
 
-I do not know why you would want to use this for anythign, considering its just a place to practice,  
-but if you have a use for the files contiend in the repoesrotry go right ahead.
+I do not know why you would want to use this for anything, considering it's just a place to practice.  
+But if you have a use for the files in the repository, please go ahead.
 
-## Testting other Markdown features
+## Testing other Markdown features
 
-### Discprtion
+### Description
 
-Bellow  are tests on the difrent feature of Markup
+Below are tests on the different features of Markdown
 
 **a way to bold text**
 
 __another way to bold text__
 
-making a word inside a sentence **bold** while the rest of the setence is not
+making a word inside a sentence **bold** while the rest of the sentence is not
 
 *italicized*
 
@@ -37,15 +37,15 @@ ___bold and italic again___
 
 __* bold and italic again *__
 
-**_ anodht way to have bold an itlic text _**
+**_ another way to have bold and italic text _**
 
 Italic and bold in the ***middle*** of a line
 
-blockqoutes test:
+blockquote test:
 
 > I hope this works
 
-blockqoutes with multi0ple paragraphs
+block quotes with multiple paragraphs
 
 > it looks like this
 >
@@ -53,10 +53,10 @@ blockqoutes with multi0ple paragraphs
 
 list test
 
-1.This should hopefuly
-2.Print as
-3.An orded list
-4.I realy ope this works
+1. This should hopefully
+2 .Print as
+3. An ordered list
+4. I really hope this works
 5.No idea what to put here
 
 -this is
