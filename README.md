@@ -78,6 +78,7 @@ _ Hopefully it does
 - 56465/
 - like that
 
-Image test:
+Image test:  
+
 ![A test image](https://github.com/maxwellmartin1005-blip/IntroToGitHub/blob/TestBranch/Test%20(1).svg)
 
