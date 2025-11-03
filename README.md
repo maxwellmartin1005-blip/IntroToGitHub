@@ -54,28 +54,30 @@ block quotes with multiple paragraphs
 list test
 
 1. This should hopefully
-2 .Print as
+2. Print as
 3. An ordered list
 4. I really hope this works
-5.No idea what to put here
+5. No idea what to put here
 
 -this is
 -one way to show
--an unoreded list
+-an unordered list
 
-* Here is anothe method
+* Here is another method
 * and another
 
-+ Yet another mehtod
++ Yet another method
 + is this 
 
-I am unsure how to describe the one bellow
+I am unsure how to describe the one below
 
 _ tetsig this other form of list
-_ hgopeufly it does
+_ Hopefully it does
 
-- how to start a list with numbers?
+- How to start a list with numbers?
 - 56465/
 - like that
 
+Image test:
+![A test image](https://github.com/maxwellmartin1005-blip/IntroToGitHub/blob/TestBranch/Test%20(1).svg)
 
